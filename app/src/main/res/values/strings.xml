@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SecretChat2</string>
+    <string name="enter_message_hint">Введите сообщение</string>
+    <string name="send_message_btn">Отправить</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="dont_have_account_create">Ещё нет аккаунта? Создать</string>
+    <string name="enter_in_account">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="authorization">Авторизация</string>
+    <string name="registration">Регистрация</string>
+    <string name="sign_up_btn">Зарегистрироваться</string>
+    <string name="have_account_login">Уже имеете аккаунт? Войти</string>
+    <string name="enter_your_name_text_view">Введите отображаемое имя</string>
+    <string name="save_btn">Сохранить</string>
+    <string name="to_chat_btn">В чат</string>
+</resources>
